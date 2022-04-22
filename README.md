@@ -1,6 +1,6 @@
 command line (bash or zsh) cd into directory you want to create project
 
-git clone git@github.com:da5id5/enchilada.git
+git clone git@github.com:kaitlynharsch/Boilerplate.git
 
 mv enchilada URnewProjectName
 
