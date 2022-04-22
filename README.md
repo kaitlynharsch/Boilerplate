@@ -1,3 +1,27 @@
+command line (bash or zsh) cd into directory you want to create project
+
+git clone git@github.com:da5id5/enchilada.git
+
+mv enchilada URnewProjectName
+
+cd into URnewProjectName
+
+rm -rf .git
+
+npm install (install dependencies)
+
+npm run build
+
+enjoy!
+
+P.S. if you need to run a local server npm run start
+
+
+
+
+
+
+
 # [HTML5 Boilerplate](https://html5boilerplate.com/)
 
 [![Build status](https://github.com/h5bp/html5-boilerplate/workflows/Build%20status/badge.svg)](https://github.com/h5bp/html5-boilerplate/actions?query=workflow%3A%22Build+status%22+branch%3Amain)
@@ -87,7 +111,7 @@ Choose one of the following options:
 * Extensive documentation.
 
 ## Browser support
-HTML5-Boilerplate supports the latest, stable releases of all major browsers. 
+HTML5-Boilerplate supports the latest, stable releases of all major browsers.
 
 You can find our range of supported browsers in our [package.json](https://github.com/h5bp/html5-boilerplate/blob/main/package.json#L56-L62) At present we extend the [browserlist default](https://github.com/browserslist/browserslist#full-list) with the addition of IE 11 and [FireFox ESR.](https://www.mozilla.org/en-US/firefox/enterprise/)
 
