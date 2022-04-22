@@ -2,7 +2,7 @@ command line (bash or zsh) cd into directory you want to create project
 
 git clone git@github.com:kaitlynharsch/Boilerplate.git
 
-mv enchilada URnewProjectName
+mv Boilerplate URnewProjectName
 
 cd into URnewProjectName
 
